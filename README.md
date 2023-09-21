@@ -37,9 +37,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmetakkoyun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="123" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetakkoyun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=true&order=2" height="123" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ahmetakkoyun&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="123" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmetakkoyun&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="122" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetakkoyun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=true&order=2" height="122" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ahmetakkoyun&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="122" alt="streak graph"  />
 </div>
 
 ###
