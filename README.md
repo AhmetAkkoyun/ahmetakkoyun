@@ -46,7 +46,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ahmetakkoyun/count.svg?" height="25"  />
+  <img src="https://profile-counter.glitch.me/ahmetakkoyun/count.svg?" height="24"  />
 </div>
 
 ###
